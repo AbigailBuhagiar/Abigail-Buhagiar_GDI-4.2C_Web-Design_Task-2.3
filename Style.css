@@ -1,0 +1,63 @@
+.Text-Font {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Title-Font {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo {
+    width: 100px;
+    display: block;
+    margin-left:auto; 
+    Margin-right:auto;
+}
+
+.pagecolor {
+    background-color:rgb(224, 224, 224);
+}
+
+.margin-top10 {
+    margin-top: auto;
+    color: rgba(173, 173, 173, 0.26);
+}
+
+.margin-bottom10 {
+    margin-bottom: auto;
+}
+
+.padding20 {
+    padding-bottom: 20px;
+}
+
+.margin20 {
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.margin-bottom50 {
+    margin-bottom: 50px;
+}
+
+.float20 {
+    float: right;
+}
+
+.marginleft {
+    margin-left: 200px;
+}
+
+.marginleft10 {
+    margin-left: 300px;
+}
+.marginleft-space {
+    margin-left: 270px;
+}
+
+.marginright {
+    margin-right: 196px;
+}
+
+.margin-top100 {
+    margin-top: 100px;
+}
